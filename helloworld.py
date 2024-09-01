@@ -8,3 +8,5 @@ Created on Sun Sep  1 14:20:37 2024
 print("hello planet");
 print("cingara");
 print("basri");
+print("test");
+
