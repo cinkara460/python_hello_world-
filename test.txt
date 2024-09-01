@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Sep  1 14:28:37 2024
+
+@author: CINKARA
+"""
+
+basri
+
